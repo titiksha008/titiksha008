@@ -117,9 +117,9 @@ status    : "Building safety-focused, real-world applications."
 
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=titiksha008&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</div>
+</div> -->
 
 ---
 

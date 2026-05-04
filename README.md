@@ -8,8 +8,7 @@
 
 <br/>
 
-[![GitHub followers](https://img.shields.io/github/followers/titiksha008?label=Followers&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/titiksha008)
-[![Profile Views](https://komarev.com/ghpvc/?username=titiksha008&style=for-the-badge&color=58a6ff&labelColor=0d1117)](https://github.com/titiksha008)
+
 
 </div>
 
@@ -105,7 +104,7 @@ status    : "Building safety-focused, real-world applications."
 - Established a **rating & review system** to improve trust and decision-making
 - Secured authentication and payment workflows ensuring data consistency
 
----
+
 
 
 
